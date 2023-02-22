@@ -29,7 +29,8 @@ globalCloudBeesPipelineTemplateCatalog:
             trust: "gitHubTrustPermissions"
     updateInterval: "1d"
 notificationConfiguration:
-  enabled: true
+#  enabled: true
+  enabled: junkvalue
   router: "operationsCenter"
 unclassified:
   hibernationConfiguration:
