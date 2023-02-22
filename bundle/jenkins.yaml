@@ -30,7 +30,7 @@ globalCloudBeesPipelineTemplateCatalog:
     updateInterval: "1d"
 notificationConfiguration:
   #enabled: true
-  enabled: junkvalue
+  enabled: myjunkvalue
   router: "operationsCenter"
 unclassified:
   hibernationConfiguration:
