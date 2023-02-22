@@ -6,7 +6,7 @@ availabilityPattern: "cloudbees-ci-workshop/emartinez-spring2023/controller"
 plugins:
   - "plugins.yaml"
 jcasc:
-  - "cantfindjenkins.yaml"
+  - "helpIcantfindjenkins.yaml"
 catalog:
   - "plugin-catalog.yaml"
 items:
