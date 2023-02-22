@@ -41,4 +41,4 @@ plugins:
 - id: workflow-cps-checkpoint
 #non cap plugins
 - id: pipeline-utility-steps
-#- id: ftppublisher
+- id: ftppublisher
